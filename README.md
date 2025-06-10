@@ -7,9 +7,7 @@ A desktop-based Pharmacy Management System built using Python and Tkinter. This 
 ## 🧰 Features
 
 - 🗂️ Add, update, and delete medicine entries
-- 🧾 Process and track medicine sales
 - 👤 Manage patient and prescription records
-- 📦 Monitor stock levels and expiry dates
 - 💻 Easy-to-use GUI with Tkinter for fast navigation and interaction
 
 ---
